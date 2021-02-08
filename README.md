@@ -11,7 +11,7 @@ This repo contains the source code of a blog project that will be used throughou
 
 ## Instructions
 
-* clone the project
+* clone the project to local repo
 * open the index file in a browser
 
 ## Creators
